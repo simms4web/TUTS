@@ -1,0 +1,34 @@
+h1{
+    color: red;
+}
+h3{
+    color: green;
+}
+img{
+    height: 300px;
+    width: 400px;
+}
+h5{
+    text-align: center;
+    text-transform: lowercase;
+    font-style: italic;
+    word-spacing: 20px;
+}
+h4{
+    text-transform: uppercase;
+    text-align: center;
+}
+p{
+    text-align: center;
+    word-spacing: 5px;
+}
+.one{
+    text-align: center;
+    color: brown;
+}
+.two{
+    text-align: center;
+    color: blue;
+    text-indent: 50px;
+    text-decoration: underline;
+}
